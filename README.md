@@ -1,4 +1,6 @@
 # deckgl-typings
+Forked from danmarshall/deckgl-typings - the only functional difference is removal of the post-install step that utilizes `indefinitely-typed` to copy type definitions to `node_modues/@types`.
+
 TypeScript declaration files for [deck.gl](https://deck.gl/#/documentation/)
 
 This is a work in progress - see the [issues list](https://github.com/danmarshall/deckgl-typings/issues)
